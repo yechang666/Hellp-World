@@ -4,8 +4,8 @@ public class lianxi003 {
         System.out.println("Hello World");
 		System.out.println(“你好，欢迎来到中国！”);
 		int a=0;
-		for(){
-			
+		for(int i = 0;i < 10;i++){
+			System.out.println("Git");
 		}
 			
 		
